@@ -1,0 +1,27 @@
+import type {ImageSourcePropType} from 'react-native';
+
+export const assets = {
+  loaderBackground: require('./loaderBackground.png'),
+  splashBackground: require('./splashBackground.png'),
+  onboardingBackground: require('./onboardingBackground.png'),
+  onboardingProtect: require('./onboardingProtect.png'),
+  onboardingTraps: require('./onboardingTraps.png'),
+  onboardingPlay: require('./onboardingPlay.png'),
+  onboardingThink: require('./onboardingThink.png'),
+  officerChecklist: require('./officerChecklist.png'),
+  robberMoneyBag: require('./robberMoneyBag.png'),
+  officerBooks: require('./officerBooks.png'),
+  policeBeacon: require('./policeBeacon.png'),
+  officerStanding: require('./officerStanding.png'),
+  robberStanding: require('./robberStanding.png'),
+  articleSmartSpending: require('./articleSmartSpending.png'),
+  articleDailyBudget: require('./articleDailyBudget.png'),
+  articleSavingEnergy: require('./articleSavingEnergy.png'),
+  articleShoppingPlans: require('./articleShoppingPlans.png'),
+  articleSavingsHabits: require('./articleSavingsHabits.png'),
+  articleImpulseBuying: require('./articleImpulseBuying.png'),
+  articleSmartChoices: require('./articleSmartChoices.png'),
+  articleSpendingTraps: require('./articleSpendingTraps.png'),
+  articleSmallSavings: require('./articleSmallSavings.png'),
+  articleBetterPlanning: require('./articleBetterPlanning.png'),
+} satisfies Record<string, ImageSourcePropType>;

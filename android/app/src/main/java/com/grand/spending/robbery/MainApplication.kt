@@ -1,4 +1,4 @@
-package com.grandspendingrobbery
+package com.grand.spending.robbery
 
 import android.app.Application
 import com.facebook.react.PackageList

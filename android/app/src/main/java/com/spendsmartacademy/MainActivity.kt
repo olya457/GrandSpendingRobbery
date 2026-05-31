@@ -1,4 +1,4 @@
-package com.grand.spending.robbery
+package com.spendsmartacademy
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

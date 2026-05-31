@@ -1,6 +1,6 @@
 export const colors = {
   ink: '#1A1A2E',
-  background: '#2A1E4F',
+  background: '#440af2ff',
   backgroundDeep: '#1F1638',
   panel: '#3D2F6B',
   panelDark: '#1F1638',

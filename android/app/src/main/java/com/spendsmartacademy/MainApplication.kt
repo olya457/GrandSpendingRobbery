@@ -1,4 +1,4 @@
-package com.grand.spending.robbery
+package com.spendsmartacademy
 
 import android.app.Application
 import com.facebook.react.PackageList
